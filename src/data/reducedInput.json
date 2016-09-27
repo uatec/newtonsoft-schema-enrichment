@@ -1,0 +1,7 @@
+{
+    "Values": [
+        "John",
+        "Bobbie",
+        { "name": "Johannes", "age": 32 }
+    ]
+}
